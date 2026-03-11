@@ -42,4 +42,5 @@ web3-product-showcase/
 
 ## Ghi chú
 
-Repo này rất hợp để làm trang mặt tiền hoặc landing page giới thiệu toàn bộ hệ sinh thái dự án của ông chủ.
+<img width="1920" height="1040" alt="4" src="https://github.com/user-attachments/assets/58ad8684-cd46-424d-b58e-bf44d2ddb007" />
+
